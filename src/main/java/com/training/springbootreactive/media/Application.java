@@ -1,4 +1,4 @@
-package com.training.springbootreactive.media.springbootreactive.media;
+package com.training.springbootreactive.media;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
